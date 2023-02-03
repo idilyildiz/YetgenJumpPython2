@@ -1,7 +1,7 @@
 # YetgenJumpPython2
 Bu repoyu YetGen Core eğitim programı içerikleri için oluşturdum.
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyetkingencler.com%2Fbulusma%2F&psig=AOvVaw2b9gXPrXqVvwep9IsAoRt_&ust=1675534130653000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC-2ML5-fwCFQAAAAAdAAAAABAE)
+![Image](https://yetkingencler.com/wp-content/uploads/2021/12/jump.png)
 
 # Eğitim Programı
 
